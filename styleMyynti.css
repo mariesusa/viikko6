@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+label1 {
+	display: block;
+	padding: 10px 20px 10px 20px;
+	background-color: #a5eefe;
+	border: solid 3px #000071;
+}
+label {
+	display: block;
+	text-align: left;
+	padding: 10px 20px 10px 20px;
+	background-color: #a5eefe;
+	border: solid 3px #000071;
+}
+td {
+	padding: 10px 20px 10px 20px;
+	background-color: #ceffff;
+	border: solid 3px #000071;
+}
+poista, .hakunappi, .uusiAsiakas, .takaisin {
+	cursor: pointer;
+}
